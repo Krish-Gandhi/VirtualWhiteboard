@@ -10,24 +10,24 @@ As of May 16, 2024 4:22 PM CST, this is version v1.0 of this whiteboard.
 
 It has the following features/functionality:
 
-Draw: 
-    Gesture: Touching your pointer finger to your thumb
-    Indicator: Thumb landmark will turn blue 
-    Effect: A blue spot will be left where the thumb landmark currently is
-            Note: This feature is limited by your device's performance because this program runs frame by frame. As a result, lines may not appear continuous if you move your hands too fast. For optimal results, move your hand slowly to match your device's FPS.
+Draw: <br />
+    &emsp;Gesture: Touching your pointer finger to your thumb<br />
+    &emsp;Indicator: Thumb landmark will turn blue <br />
+    &emsp;Effect: A blue spot will be left where the thumb landmark currently is<br />
+            &emsp;&emsp;&emsp;Note: This feature is limited by your device's performance because this program runs frame by frame. As a result, lines may not appear <br />&emsp;&emsp;&emsp;continuous if you move your hands too fast. For optimal results, move your hand slowly to match your device's FPS.
 
-Erase:
-    Gesture: Touching your pinky finger to your thumb
-    Indicator: Thumb landmark will turn green 
-    Effect: Clears all drawing from entire board
+Erase:<br />
+    &emsp;Gesture: Touching your pinky finger to your thumb<br />
+    &emsp;Indicator: Thumb landmark will turn green <br />
+    &emsp;Effect: Clears all drawing from entire board<br />
 
-Close:
-    Gesture: Touching your ring finger to your thumb
-    Indicator: Thumb landmark will turn red
-    Effect: Closes window and exits program
+Close:<br />
+    &emsp;Gesture: Touching your ring finger to your thumb<br />
+    &emsp;Indicator: Thumb landmark will turn red<br />
+    &emsp;Effect: Closes window and exits program<br />
 
 Possible future features:
 
--Undo
--Partial Erase
--Change Draw Color
+-Undo<br />
+-Partial Erase<br />
+-Change Draw Color<br />
