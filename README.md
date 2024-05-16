@@ -14,7 +14,7 @@ Draw: <br />
     &emsp;Gesture: Touching your pointer finger to your thumb<br />
     &emsp;Indicator: Thumb landmark will turn blue <br />
     &emsp;Effect: A blue spot will be left where the thumb landmark currently is<br />
-            &emsp;&emsp;&emsp;Note: This feature is limited by your device's performance because this program runs frame by frame. As a result, lines may not appear <br />&emsp;&emsp;&emsp;continuous if you move your hands too fast. For optimal results, move your hand slowly to match your device's FPS.
+            &emsp;&emsp;&emsp;Note: This feature is limited by your device's performance because this program runs frame by frame. As a result, lines may not appear continuous if you move your hands too fast. For optimal results, move your hand slowly to match your device's FPS.
 
 Erase:<br />
     &emsp;Gesture: Touching your pinky finger to your thumb<br />
