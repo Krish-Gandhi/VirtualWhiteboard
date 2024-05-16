@@ -1,6 +1,8 @@
 # Virtual Whiteboard
 
-This project was created using OpenCV, Google's MediaPipe and numpy libraries. 
+This project was created using the OpenCV, Google's MediaPipe and numpy libraries. 
+
+This program utilizes your device's camera to mimic a digital whiteboard. When running, the user can fully control the program thru their device's camera by putting their hands in view of the camera and making certain gestures.
 
 The idea for this project came to me when I attempted to use a dry erase whiteboard to teach my friend (who was chatting with me via video call) how to do a Fourier transform. I realized it was difficult for her to read the whiteboard for a few reasons such as lighting in the room, distance from the camera, camera quality, etc.
 
