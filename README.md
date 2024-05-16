@@ -1,4 +1,4 @@
-# VirtualWhiteboard
+# Virtual Whiteboard
 
 This project was created using OpenCV, Google's MediaPipe and numpy libraries. 
 
